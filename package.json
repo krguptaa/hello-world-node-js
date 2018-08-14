@@ -1,5 +1,5 @@
 {
-  "name": "hello-world-node-js",
+  "name": "@krgupta/hello-world-node-js",
   "version": "1.0.0",
   "description": "Simple print the hello world and run the node js application",
   "main": "index.js",
