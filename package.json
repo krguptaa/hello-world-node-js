@@ -1,0 +1,27 @@
+{
+  "name": "hello-world-node-js",
+  "version": "1.0.0",
+  "description": "Simple print the hello world and run the node js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gupta-kamlesh-r/hello-world-node-js.git"
+  },
+  "keywords": [
+    "Simple_hello_world",
+    "test_node_js",
+    "helloworld"
+  ],
+  "author": "Kamlesh Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gupta-kamlesh-r/hello-world-node-js/issues"
+  },
+  "homepage": "https://github.com/gupta-kamlesh-r/hello-world-node-js#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
